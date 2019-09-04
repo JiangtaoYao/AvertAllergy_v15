@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AvertAllergy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="peanut">Peanuts</string>
+    <string name="milk">Milk</string>
+    <string name="egg">Egg</string>
+    <string name="soy">Soy</string>
+    <string name="enter">Start</string>
+    <string name="edit">Save</string>
+    <string name="title_home">Home</string>
+    <string name="hint_name">How could I call you?</string>
+    <string name="error_message_name">Enter Name</string>
+</resources>
